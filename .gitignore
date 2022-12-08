@@ -33,7 +33,6 @@ package-lock.json
 
 # Generated files
 dist/
-build/
 public/
 tmp/
 resources/
